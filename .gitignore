@@ -1,0 +1,3 @@
+#ignore
+datasets/*
+extracted_features/*
